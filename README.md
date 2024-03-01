@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Bittu7870&label=Profile%20views&color=0e75b6&style=flat" alt="Bittu7870" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=stujlimaan&label=Profile%20views&color=0e75b6&style=flat" alt="stujlimaan" /> </p>
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hi+%F0%9F%91%8B%2C+I'm+S+Tujliman+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;An+enthusiastic+Full+Stack+developer+%F0%9F%94%A5;)](https://git.io/typing-svg)
